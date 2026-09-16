@@ -1,4 +1,4 @@
-# A.K.A. Gabriel Borba - **`Desenvolvedor FullStack`**
+<h1 align="center"> A.K.A. Gabriel Borba - Desenvolvedor FullStack</h1>
 
 <div align="center">
 
@@ -22,16 +22,16 @@ Olá meu nome é Gabriel Borba, tenho 20 anos e sou Carioca. Atualmente, estou c
 
 ---
 
-<h3 align="center">🤖GitHub Stats</h3>
+<h2 align="center">🤖GitHub Stats</h2>
 <div align="center">
     
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=GreenStar15&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=GreenStar15&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=GreenStar15&layout=donut&langs_count=4&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=GreenStar15&layout=donut&langs_count=4&theme=chartreuse-dark)
 </div>
 
-<h3 align="center">
+<h2 align="center">
 ⚙ Tech Stack
-</h3>
+</h2>
 <p align="center">
   <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   &nbsp;&nbsp;
@@ -44,6 +44,7 @@ Olá meu nome é Gabriel Borba, tenho 20 anos e sou Carioca. Atualmente, estou c
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GreenStar15/GreenStar15/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GreenStar15/GreenStar15/output/github-contribution-grid-snake.svg">
