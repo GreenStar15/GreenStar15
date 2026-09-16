@@ -1,8 +1,14 @@
 # A.K.A. Gabriel Borba **`Desenvolvedor FullStack`**
 
-Olá meu nome é Gabriel Borba, tenho 20 anos e Carioca. Atualmente, estou cursando Engenharia de Software na UniBrasil Centro Universitário - CWB/PR. Eu me amarro por tecnologia e venho aqui partilhar dos meus projetos desenvolvidos na minha graduação.
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=35&duration=2000&pause=1000&color=8ef529&vCenter=true&width=500&lines=Bem+vindo+ao+meu+perfil!+)](https://git.io/typing-svg)
 
-<p align="left">
+</div> 
+
+Olá meu nome é Gabriel Borba, tenho 20 anos e sou Carioca. Atualmente, estou cursando Engenharia de Software na UniBrasil Centro Universitário - CWB/PR. Eu me amarro por tecnologia e venho aqui partilhar dos meus projetos desenvolvidos durante na minha graduação.
+
+<p align="center">
     <a href="https://www.linkedin.com/in/gabriel-borba-b93718368/">
         <img 
             alt="linkedin perfil" 
@@ -13,12 +19,14 @@ Olá meu nome é Gabriel Borba, tenho 20 anos e Carioca. Atualmente, estou cursa
 </p>
 
 ---
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=GreenStar15&custom_title=Minhas%20Estat%C3%ADsticas&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=GreenStar15&custom_title=Minhas%20Estat%C3%ADsticas&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
+<div align="center">
+    
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=GreenStar15&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=GreenStar15&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=GreenStar15&layout=donut&langs_count=4&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=GreenStar15&layout=donut&langs_count=4&theme=chartreuse-dark)
-<p align="center">
-⚙ Linguagens e Tecnologias
-</p>
+</div>
+<h3 align="center">
+⚙ Tech Stack
+</h3>
 <p align="center">
   <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   &nbsp;&nbsp;
@@ -32,4 +40,3 @@ Olá meu nome é Gabriel Borba, tenho 20 anos e Carioca. Atualmente, estou cursa
   &nbsp;&nbsp;
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
-
