@@ -46,4 +46,8 @@ Olá meu nome é Gabriel Borba, tenho 20 anos e sou Carioca. Atualmente, estou c
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
-![Snake animation](https://github.com/GreenStar15/GreenStar15/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GreenStar15/GreenStar15/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GreenStar15/GreenStar15/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GreenStar15/GreenStar15/output/github-contribution-grid-snake.svg">
+</picture>
