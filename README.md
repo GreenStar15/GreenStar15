@@ -1,7 +1,9 @@
-# A.K.A. Gabriel Borba **`Desenvolvedor FullStack`**
+# A.K.A. Gabriel Borba - **`Desenvolvedor FullStack`**
 
 <div align="center">
-    
+
+<img alt="" height="190px" src="./image/170786272cdd3790137bf379d14e2807.gif">    
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=35&duration=2000&pause=1000&color=8ef529&vCenter=true&width=500&lines=Bem+vindo+ao+meu+perfil!+)](https://git.io/typing-svg)
 
 </div> 
@@ -19,11 +21,14 @@ Olá meu nome é Gabriel Borba, tenho 20 anos e sou Carioca. Atualmente, estou c
 </p>
 
 ---
+
+<h3 align="center">🤖GitHub Stats</h3>
 <div align="center">
     
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=GreenStar15&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=GreenStar15&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=GreenStar15&layout=donut&langs_count=4&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=GreenStar15&layout=donut&langs_count=4&theme=chartreuse-dark)
 </div>
+
 <h3 align="center">
 ⚙ Tech Stack
 </h3>
@@ -40,3 +45,5 @@ Olá meu nome é Gabriel Borba, tenho 20 anos e sou Carioca. Atualmente, estou c
   &nbsp;&nbsp;
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
