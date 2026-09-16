@@ -18,6 +18,8 @@ Olá meu nome é Gabriel Borba, tenho 20 anos e sou Carioca. Atualmente, estou c
     </a>
 </p>
 
+<img align="right" alt="" height="190px" src="./src/170786272cdd3790137bf379d14e2807.gif">
+
 ---
 <div align="center">
     
