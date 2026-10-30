@@ -8,7 +8,7 @@
 
 </div> 
 
-Olá meu nome é Gabriel Borba, tenho 20 anos e sou Carioca. Atualmente, estou cursando Engenharia de Software na UniBrasil Centro Universitário - CWB/PR. Eu me amarro por tecnologia e venho aqui partilhar dos meus projetos desenvolvidos durante na minha graduação.
+Olá meu nome é Gabriel Borba, tenho 20 anos e sou Carioca. Atualmente, estou cursando Engenharia de Software na UniBrasil Centro Universitário - CWB/PR. Eu me amarro por tecnologia e venho aqui partilhar dos meus projetos desenvolvidos durante a minha graduação.
 
 <p align="center">
     <a href="https://www.linkedin.com/in/gabriel-borba-b93718368/">
